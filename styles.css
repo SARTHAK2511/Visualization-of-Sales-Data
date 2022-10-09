@@ -1,0 +1,77 @@
+body{
+    margin: 100px;
+    background-color: #C8DBBE;
+    font-family: 'Alkalami', serif;
+}
+
+h1{
+    text-align: center;
+}
+.image{
+    text-align: center;
+    width: 600px;
+    height: 600px;
+    margin: 50px 400px 0 350px;
+}
+
+.hero-section{
+    font-size: 50px;
+}
+
+.most-sold-products{
+    font-size: 30px;
+}
+.most-sold-products h3{
+    font-size: 25px;
+    text-align: center;
+    font-weight: lighter;
+
+}
+
+.most-ordered-cities{
+    font-size: 30px;
+}
+.most-ordered-cities h3{
+    font-size: 25px;
+    text-align: center;
+    font-weight: lighter
+
+}
+
+.least-sold-products{
+    font-size: 30px;
+}
+.least-sold-products h3{
+    font-size: 25px;
+    text-align: center;
+    font-weight: lighter
+
+}
+
+.sales-pattern{
+    font-size: 30px;
+}
+.sales-pattern h3{
+    font-size: 25px;
+    text-align: center;
+    font-weight: lighter
+
+}
+.sales-pattern h3 ol{
+    text-align: left;
+    font-weight: lighter
+}
+.most-favourable-months{
+    font-size: 30px;
+
+}
+.most-favourable-months h3{
+    font-size: 25px;
+    text-align: center;
+    font-weight: lighter
+}
+.most-favourable-months p{
+    font-size: 25px;
+    text-align: center;
+    font-weight: bolder;
+}
